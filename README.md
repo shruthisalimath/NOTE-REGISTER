@@ -25,8 +25,8 @@ Express.js Note Taker
 
 
 ## License  
-* This application is licensed under : ![GitHub License](https://shields.io/badge/license-MIT-brightgreen)
-* Click the link for the detailed license information: https://choosealicense.com/licenses/mit/
+* This application is licensed under : ![GitHub License](https://shields.io/badge/license-ISC-brightgreen)
+* Click the link for the detailed license information: https://choosealicense.com/licenses/isc/
 
 ## Contributors
 shruthi

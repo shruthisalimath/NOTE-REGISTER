@@ -1,7 +1,7 @@
 # NOTE-REGISTER 
 Express.js Note Taker
 
-## Descrption
+## Description
     This application called Note Taker enables users that to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. And then deploy the entire application to Heroku.
 
 ## Tables of content:

@@ -14,8 +14,7 @@ app.use(express.static('public'));
 //use routes
 require('./Develop/routes/apiRoutes')(app);
 require('./Develop/routes/htmlRoutes')(app);
-//app.use('/api', apiRoutes);
-//app.use('/', htmlRoutes);
+
 
 //starts the server to begin listenig
 app.listen(port, () => {

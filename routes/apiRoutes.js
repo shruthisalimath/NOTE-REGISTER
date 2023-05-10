@@ -60,7 +60,7 @@ const { v4: uuidv4 } = require('uuid');
         // Write new data to 'db.json' file
         fs.writeFileSync('./db/db.json', JSON.stringify(newData));
         
-        console.log(`\nSuccessfully added new note!: ${delNoteId}`);
+        console.log(`\nSuccessfully deleted new note!: ${delNoteId}`);
  
         // Send response
          res.json(newData);

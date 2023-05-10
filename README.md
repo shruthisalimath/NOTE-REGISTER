@@ -57,7 +57,7 @@ npm test
 ![Note-Taker-Heroku](Assets/Images/screenshot-2-heroku.png)
 ## URL
 1. The URL of the Deployed Heroku.
-https://note-register.herokuapp.com/notes
+https://note-register.herokuapp.com/
 
 2. The URL of the GitHub repository.
 https://github.com/shruthisalimath/Note-Register

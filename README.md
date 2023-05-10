@@ -29,9 +29,8 @@ Express.js Note Taker
 3. When the user enters a new note title and text, then a Save icon appears in the navigation bar at the top of the page.
 4. When the user clicks on the Save icon, then the new note is saved and appears in the left-hand column with the other existing notes.
 5. When an existing note in the list in the left-hand column is clicked, then that note appears in the right-hand column.
-6. When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
-
-
+6. When clicked on the delete button in the list of the left-hand column next to the saved note, then the note gets deleted or diappears.
+7. When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
 
 ## License  
 * This application is licensed under : ![GitHub License](https://shields.io/badge/license-ISC-brightgreen)
@@ -57,8 +56,8 @@ npm test
 ![Note Taker](./Assets/Images/Screenshot-noteTaker.png)
 ## URL
 1. The URL of the Deployed Heroku.
+https://note-register.herokuapp.com/notes
 
-
-2.The URL of the GitHub repository.
+2. The URL of the GitHub repository.
 https://github.com/shruthisalimath/Note-Register
 

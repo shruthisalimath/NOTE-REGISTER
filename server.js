@@ -6,7 +6,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 //express configuration - tells node that we are creating an express server
 const app = express();
 //sets initial port
-const port = process.env.port || 3001;
+const port = process.env.PORT || 3001;
 
 //middleware for parsing JSON and urlencoded from incoming data 
 app.use(express.json());
